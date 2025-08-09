@@ -10,3 +10,4 @@ RUN go build -o bin .
 ENTRYPOINT [ "/app/bin" ]
 
 
+ 
